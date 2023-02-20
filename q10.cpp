@@ -1,4 +1,4 @@
-/*  assignment algorithm
+/*  question number 10 assignment algorithm
 
 
 ptr1=head1;
